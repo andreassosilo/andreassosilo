@@ -7,6 +7,8 @@
   <img align="left" alt="Andreas' LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<br>
+
 I'm Andreas Sosilo, a passionate full-stack web developer and Cardano enthusiast from Indonesia. If you have the drive and passion in web development or blockchain, I would love to connect with you.
 
 **Languages & Tools:**  
@@ -21,7 +23,12 @@ I'm Andreas Sosilo, a passionate full-stack web developer and Cardano enthusiast
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br>
 
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andreassosilo&show_icons=true&theme=gotham" alt="andreassosilo" />
+  
 <!--
 **andreassosilo/andreassosilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
