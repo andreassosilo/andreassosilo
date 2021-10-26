@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/andreassosilo">
-  <img align="left" alt="Andreas Sosilo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/andreassosilo/">
-  <img align="left" alt="Andreas' LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <br>
 
 I'm Andreas Sosilo, a passionate full-stack web developer and Cardano enthusiast from Indonesia. If you have the drive and passion in web development or blockchain, I would love to connect with you.
@@ -28,6 +21,17 @@ I'm Andreas Sosilo, a passionate full-stack web developer and Cardano enthusiast
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andreassosilo&show_icons=true&theme=gotham" alt="andreassosilo" />
+
+<br>
+
+📷 My Social Media
+
+<a href="https://twitter.com/andreassosilo">
+  <img align="left" alt="Andreas Sosilo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/andreassosilo/">
+  <img align="left" alt="Andreas' LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
   
 <!--
 **andreassosilo/andreassosilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
