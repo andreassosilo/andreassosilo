@@ -2,7 +2,7 @@
 
 <br>
 
-I'm Andreas Sosilo, a passionate full-stack web developer and Cardano enthusiast from Indonesia. If you have the drive and passion in web development or blockchain, I would love to connect with you.
+Nice to meet you. My name is Andreas Sosilo. I'm a passionate full-stack JavaScript developer and Cardano enthusiast from Indonesia. If you have the drive and passion in web development or blockchain, I would love to connect with you.
 
 **Languages & Tools:**  
 
