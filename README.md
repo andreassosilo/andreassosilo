@@ -34,9 +34,10 @@ Nice to meet you. My name is Andreas Sosilo. I'm a passionate full-stack JavaScr
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://andreassosilo.dev/)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andreassosilo/)
+[![twitter](https://img.shields.io/badge/Twitter-4285F4?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/andreassosilo/)
 [![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://andreassosilo.medium.com/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andreassosilo)
-[![twitter](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.twitter.com/andreassosilo/)
+
   
 <!--
 **andreassosilo/andreassosilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
