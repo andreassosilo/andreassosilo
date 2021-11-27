@@ -22,20 +22,21 @@ Nice to meet you. My name is Andreas Sosilo. I'm a passionate full-stack JavaScr
 
 <br>
 
-📈 My GitHub Stats
+## 📈 Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andreassosilo&show_icons=true&theme=gotham" alt="andreassosilo" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=andreassosilo&show_icons=true&theme=gotham" alt="Andreas Sosilo's GitHub Stats">
+</div>
 
 <br>
 
-📷 My Social Media
+## 🔗 Links
 
-<a href="https://twitter.com/andreassosilo">
-  <img align="left" alt="Andreas Sosilo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/andreassosilo/">
-  <img align="left" alt="Andreas' LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://andreassosilo.dev/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andreassosilo/)
+[![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://andreassosilo.medium.com/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andreassosilo)
+[![twitter](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.twitter.com/andreassosilo/)
   
 <!--
 **andreassosilo/andreassosilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
