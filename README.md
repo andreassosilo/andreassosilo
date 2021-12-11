@@ -30,8 +30,6 @@ Nice to meet you. My name is Andreas Sosilo. I'm a passionate Full Stack JavaScr
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=andreassosilo&color=blueviolet)
-
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://andreassosilo.dev/)
@@ -40,6 +38,7 @@ Nice to meet you. My name is Andreas Sosilo. I'm a passionate Full Stack JavaScr
 [![medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://andreassosilo.medium.com/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andreassosilo)
 
+![](https://komarev.com/ghpvc/?username=andreassosilo&color=blueviolet)
   
 <!--
 **andreassosilo/andreassosilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
