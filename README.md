@@ -30,6 +30,8 @@ Nice to meet you. My name is Andreas Sosilo. I'm a passionate Full Stack JavaScr
 
 <br>
 
+![](https://komarev.com/ghpvc/?username=andreassosilo&color=blueviolet)
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://andreassosilo.dev/)
