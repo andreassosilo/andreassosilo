@@ -23,7 +23,8 @@ Nice to meet you. My name is Andreas Sosilo. I'm a passionate Full Stack JavaScr
 ## 📈 Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=andreassosilo&show_icons=true&theme=gotham" alt="Andreas Sosilo's GitHub Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreassosilo&show_icons=true&theme=gotham" alt="Andreas Sosilo's GitHub Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreassosilo&layout=compact&theme=gotham" alt="Andreas Sosilo's Language"/>
 </div>
 
 ## 🔗 Links
