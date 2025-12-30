@@ -33,7 +33,7 @@ Nice to meet you. My name is Andreas. I'm a passionate Full Stack JavaScript dev
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andreassosilo/)
-[![twitter](https://img.shields.io/badge/Twitter-4285F4?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/andreassosilo/)
+[![twitter](https://img.shields.io/badge/Twitter-4285F4?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/andreassosilo/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/andreassosilo)
 
 ![](https://komarev.com/ghpvc/?username=andreassosilo&color=blueviolet)
