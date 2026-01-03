@@ -2,7 +2,7 @@
 
 <br>
 
-Nice to meet you. My name is Andreas. I'm a passionate Full Stack JavaScript developer and blockchain enthusiast. If you have the drive and passion in web development or blockchain, I would love to connect with you.
+Nice to meet you. My name is Andreas. I'm a passionate Full Stack TypeScript developer and blockchain enthusiast. If you have the drive and passion in web development or blockchain, I would love to connect with you.
 
 **Languages & Tools:**  
 
